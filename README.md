@@ -63,3 +63,6 @@ linkedin-bottleneck-detector/
 │
 ├── requirements.txt
 └── README.md
+
+
+<img width="1384" height="643" alt="Screenshot 2026-04-08 124947" src="https://github.com/user-attachments/assets/db090cc4-34c9-4dc3-b10d-b97fbb4f888f" />

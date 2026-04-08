@@ -1,0 +1,15 @@
+linkedin-bottleneck-detector/
+│
+├── app/
+│   ├── main.py
+│   ├── services.py
+│   ├── monitor.py
+│   ├── detector.py
+│   ├── logger.py
+│   └── database.py
+│
+├── data/
+│   └── performance_logs.csv
+│
+├── requirements.txt
+└── README.md
